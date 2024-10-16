@@ -1,0 +1,28 @@
+# Shell
+zsh + ohmyzsh
+git getnf for nerd fonts
+git fzf
+nnn
+neofetch
+
+# Editor
+neovim + kickstart
+python-venv
+
+# GUI
+flatpak + flatseal + warehouse
+megasync
+zotero
+gimp
+libreoffice
+xournal++
+texlive + texstudio
+vlc
+bottles
+
+# Dev
+matlab
+juliaup
+ipython + jupyterlab + notebook
+pytorch + lightning
+jax + equinox
